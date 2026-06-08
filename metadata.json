@@ -1,0 +1,6 @@
+{
+  "name": "ASIYA",
+  "description": "Натуральная уходовая косметика, рождённая в казахской степи",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
